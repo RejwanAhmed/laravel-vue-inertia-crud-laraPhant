@@ -67,3 +67,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Tutorial Link
 https://www.youtube.com/watch?v=TW6Yg79YkAs&list=PLa9jxxDE6i_1cWCmpsizPHS70XId43Ujy&index=1
+
+## repository name
+laraPhant is the channel name
